@@ -1,6 +1,5 @@
-# Hi, I'm Elyan 👋
+# Hi, I'm Elyan
 
-🏫 Currently studying computer science at Texas A&M University-Kingsville<br/>
-🔭 An avid amateur astrophotographer who loves the deep space cosmos<br/>
+Currently studying Computer Science at Texas A&M University - Kingsville.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+When I'm able to, I like to build apps that people can use in their daily lives.
