@@ -1,5 +1,12 @@
-# Hi, I'm Elyan
+hey there, i'm elyan!
 
-Currently studying Computer Science at Texas A&M University - Kingsville.
+i'm currently studying computer science @ texas a&m university-kingsville.
 
-When I'm able to, I like to build stuff!
+i enjoy building in many different environments but most of my work is in ios development.
+
+here is what i'm currently working on!
+
+- **[ChromaPicker](https://github.com/elyangutierrez/ChromaPicker)**: A SwiftUI package that gives you a new and improved color picker.
+
+
+
