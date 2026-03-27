@@ -8,5 +8,5 @@ here is what i'm currently working on!
 
 - **[ChromaPicker](https://github.com/elyangutierrez/ChromaPicker)**: A SwiftUI package that gives you a new and improved color picker.
 
-- **[Keypath]()**: A personal macOS app that allows for easy navigation across your apps via keybinds.
+- **[Keypath](https://github.com/elyangutierrez/Keypath.git)**: A personal macOS app that allows for easy navigation across your apps via keybinds.
 
