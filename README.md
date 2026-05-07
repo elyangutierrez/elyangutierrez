@@ -6,7 +6,5 @@ i enjoy building in many different environments but most of my work is in ios de
 
 here is what i'm currently working on!
 
-- **[ChromaPicker](https://github.com/elyangutierrez/ChromaPicker)**: A SwiftUI package that gives you a new and improved color picker.
-
 - **[Keypath](https://github.com/elyangutierrez/Keypath.git)**: A personal macOS app that allows for easy navigation across your apps via keybinds.
 
